@@ -149,7 +149,7 @@
                 <li><strong>氏名：</strong> ちゅーたろう</li>
                 <li><strong>コメント：</strong> 愛犬とラグビー、ロックフェスを愛する３児の父、理学療法士！仕事も遊びも全力で！</li>
                 <li><strong>類人猿分類：</strong> ボノボ (平和的で協調性高めらしいよ😊)</li>
-                <li><strong>出身地：</strong> 大阪府東大阪市 (ラグビーの聖地で育ったよ！)<img src=""D:\OneDrive\デスクトップ\rugby.jpeg"" alt="愛犬とラグビーボール" style="border-radius: 50%"></li>
+                <li><strong>出身地：</strong> 大阪府東大阪市 (ラグビーの聖地で育ったよ！)<img src=""(https://sozai-good.com/uploads/69587/69587_sample.png)"" alt="愛犬とラグビーボール" style="border-radius: 50%"></li>
                 <li><strong>私の性格：</strong> やると決めたらやる🔥（でも、めんどくさがりな一面も…）</li>
             </ul>
         </section>
